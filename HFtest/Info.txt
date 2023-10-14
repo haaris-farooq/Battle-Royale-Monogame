@@ -1,0 +1,13 @@
+﻿Welcome to Haaris' Battle Royale
+To move around use WASD keys
+To pause press P
+To pick up, drop or swap weapons use right click
+To shoot, left click the mouse in the direction you would like to shoot
+Red hearts give you 5 health
+Blue Hearts give you 20 health
+The aim of the game is to be the last player standing
+Good Luck!
+
+
+
+

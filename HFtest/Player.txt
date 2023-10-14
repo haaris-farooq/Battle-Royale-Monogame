@@ -1,0 +1,5 @@
+﻿Outfit_Parakeet,8,20
+#
+textureName,speed,health
+
+

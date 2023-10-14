@@ -1,0 +1,7 @@
+﻿Health
+Weapon
+Cooldown(ms)
+Players in game
+Kills
+Time till next Enclose
+Press P to Pause

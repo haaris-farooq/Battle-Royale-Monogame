@@ -1,0 +1,8 @@
+﻿0,pistol,4,550,0.9,sBullet,3500,8
+1,rifle,6,250,0.77,sBullet,3500,8
+3,shotgun,10,1200,0.73,sBullet,1000,8
+4,smg,2,110,0.9,sBullet,1500,10
+5,scar,7,200,0.79,sBullet,3500,8
+#
+weaponType,textureName,power,firingCooldown,weight,projectileTexture,projectileLifespan,projectileSpeed
+2,sniper,20,3000,0.6,sBullet,3500,15

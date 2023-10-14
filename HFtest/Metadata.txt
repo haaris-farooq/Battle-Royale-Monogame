@@ -1,0 +1,4 @@
+﻿20,30,19,10,10,15,7,15
+#
+Collectibles, Weapons, Enemies, HUD X, HUD Y, HUD spacing, Tile allowed radius, enclosing interval
+

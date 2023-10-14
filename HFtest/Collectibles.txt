@@ -1,0 +1,4 @@
+﻿heart1,5
+heart2,20
+#
+textureName,Value

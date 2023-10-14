@@ -1,0 +1,4 @@
+﻿Place
+Kills
+Damage Taken
+Duration of Game (s)
